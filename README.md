@@ -18,7 +18,7 @@ Before you begin, ensure you have installed [Node.js](https://nodejs.org/en/) (v
 1. Clone this repository to your local machine:
 
     ```shell
-    git clone https://github.com/paulgg-code/ipschain-boilerplate.git
+    git clone https://github.com/IPSProtocol/ipschain-boilerplate.git
     ```
 
 2. Navigate into the cloned directory:
