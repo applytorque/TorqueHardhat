@@ -3,8 +3,18 @@
   "author": "lolplz",
   "license": "MIT",
   "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
+    "@nomicfoundation/hardhat-ignition": "^0.15.2",
+    "@nomicfoundation/hardhat-ignition-ethers": "^0.15.2",
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "@nomicfoundation/hardhat-verify": "^2.0.5",
+    "@nomicfoundation/hardhat-verify": "^2.0.6",
+    "@nomicfoundation/ignition-core": "^0.15.2",
+    "ethers": "^6.12.1",
     "hardhat": "^2.22.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "@openzeppelin/contracts-upgradeable": "^5.0.2",
+    "@openzeppelin/hardhat-upgrades": "^3.1.0"
   }
 }
